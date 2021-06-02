@@ -1,164 +1,164 @@
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ae832c45123cbfab760e4d0fbcb2ccfb835e0ca5"
+git-tree-sha1 = "3a5b4990735c102fd54908fca01272bf1ad42a36"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "45145289873759e118018397f71b38e48e9d4623d60fb19d54b93e7615c577f8"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "14512ae5bf13a3a30985d9433f929290a33f6e4c826c835f70dee115d9182050"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54fd2a490fc6c2c23ba93fb3eec560558fa2c505"
+git-tree-sha1 = "863981c2e7344c6cf30dac1ace5a74b42322d44c"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "afb46df5dea73436f7a61084a7e0dbb0466a07f04e90650dd4721590f204d866"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c73e00ef6e526fd37268ab59a93d0787af80d17bc2f7a65be068de78c00c2818"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "33b19a06cab70d4a1d7db49e6663fb9cf42e9f34"
+git-tree-sha1 = "1a61af7ec81cbc5959310f2f7969095523c8a22a"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "a2209536d9ab527e7606bc53265e8ecee9445321533fdadde572f7892f31d65a"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "a50568cb224d9d334e54e95bb82e344e4fb1595474d8457dd21d77546a2ca41c"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d605b45dcf6026cfdd4cb4754cd574a91184ce70"
+git-tree-sha1 = "b6a5c10b4dd79e63571d8556272a656f4086d018"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "ea655d9a971d8b9c0ac6f42bb079a521077ec6bbecbebff1800867522a08d9a1"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "5b1fbf6ddbbf408734f9ae5a995502f23c73698773cb5e092271ea689e11d603"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bfbfd730bc135831a63e10b85d6e2df741e6c38e"
+git-tree-sha1 = "60eb19c20fa973dd163b2320d8470fcfdb783b85"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "8df2bad82175fd4edef68a58d0657a3db7f117b78f4a1597cfc099adcb88e8db"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "6b63941a24da1a400b80e242ec87ca84629f702400f3e28c161cbfad18cbc03f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.i686-linux-gnu-cxx03.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b170125bc011e4ea931fe30256b976908f45d536"
+git-tree-sha1 = "d3692fdeac1debe0a37b3917539825425ddfa1bf"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "b26fe139f2ee96ebeb9b2fa0cdcd7fe573cfd4d8cbbc3760c7135bcb8cfc7224"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "e4add9587eb09798021cc77c15fda1d65417b5ba52cc450ae03cb4e442c39ee1"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.i686-linux-gnu-cxx11.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f46eb80b99821ccd28df8dec2d2e55dd11f1d1b6"
+git-tree-sha1 = "6da4c7c544832fe088d142e5e0418940fe68b9d9"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "bea2e22ace566042c27f52bb989bf119a39377fc943541f72187d9b96d69fcc8"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "40827732f391c18179cdae23481c5566613e1817400c7580bc0806c56f2e4cca"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.i686-w64-mingw32-cxx03.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "27ea525e4693074fff5b147461928f025b136b5e"
+git-tree-sha1 = "3a2e691363cbcff4c9b861835b3aae52d4480cb7"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "33683f741cb1513b812fb3628988255ffdc6d04f34905a4c7c135d93f97c3ce1"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "5b798774cb1a48c364890145217ce5ac07cc909924b8c56815c86dfcecebd302"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.i686-w64-mingw32-cxx11.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "134846e1f57f4dd0155591f122731b9f4b78ab53"
+git-tree-sha1 = "2a95dbd8c8c9dd196397854a9b266a565c2edb9c"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "95c467e15825feb83c3254680af61625ea00aa01eaf7b965b7e9fab8edc42572"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "80499ec1987d95ecbc3c9ab5bf6a5108eaf6926edc2e94ee4f33f005a149fdbb"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce81035eb8bc34414b83810266d32ba987bbb0a6"
+git-tree-sha1 = "08521783cdd09575946a0c8dff32d9363aa07b61"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "c185f3a7861cbbde045eff62f77e42ec4c39a2edfa53d203aa2cfc449ab64441"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "4accb7ca014fb7cc52a9b86aa94b86f00286e212cd52a89b81c069b18dccb07f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "ecc2410b3314f840344208a297f487670c8aadb1"
+git-tree-sha1 = "a6b0b0e987e64c40d31a33cd6d577474546d8c58"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "10a1700bf56367add9963e41c68302062bdcf6128c39470d125456c00075ce06"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "d8dbd7ed109f6a9afff66066ffb392e71f0bb284b1afe579dca5936926a4c11c"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.x86_64-apple-darwin.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "19459c008440d2fa0a6ed8acd046287182902ea1"
+git-tree-sha1 = "5b5a3451164f667ea84d45d4345d3384826bf3ca"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "5dbd7e558ac5bea3948443cedc3e5805d098fea66fb74d503ccbfa55ea809e33"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "83fb1fb60d0922f6b73c0e580713bd0ad04babdb58a73dcdf784b9c8c63344b8"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b07f0b7f45bdc90ad2e91e1996648221f5f5445d"
+git-tree-sha1 = "9675b4e599c2d965d762875a2ca3145bd7681cd9"
 libc = "glibc"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "90c4d80e750115338528728b2ab4fc0a6c7b983d0d7a7827aae51045e689bd75"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "1312040985360bd71725764dc3698476c8859663753b5697e81441520864789d"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "000d8040dd37fe458d1c4456c3624dea4495376a"
+git-tree-sha1 = "ab4c684c769de1fa3581f26c952d4ee3a5dbcbac"
 os = "freebsd"
 
     [[AMReX.download]]
-    sha256 = "8fc6ae7eed0baa0e944b54f255ff703d3b04bda33fd5a6917556837c1698f4f3"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.x86_64-unknown-freebsd-cxx03.tar.gz"
+    sha256 = "b30a186ba3092216935a8a2bab122fc9392c8b89b2f3c53393bc52aae5a19e1c"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.x86_64-unknown-freebsd-cxx03.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7204fdc48dc0845ba1a933665bed9c93603107a8"
+git-tree-sha1 = "78f31f77aa750a398f817b0c919c934b0a233e1e"
 os = "freebsd"
 
     [[AMReX.download]]
-    sha256 = "43faef2e06383676a8a562827f5b8e99c135b24a9b6a2eaa72ee5702ba16addd"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.x86_64-unknown-freebsd-cxx11.tar.gz"
+    sha256 = "42d3267e25448cb82fb0a6fdd0952bebdf299c7aa2cf446a518b78d14e142777"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.x86_64-unknown-freebsd-cxx11.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "95115a2e4c126273d8159458b1fc52e16327d707"
+git-tree-sha1 = "df5330a9cf8632aa42013009d2d4a00f2dfcdccc"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "b25892ce8ca9ebaf8f08e1165b352333c29d5108797cb74d4aae9931337dd2f4"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "87f573fb14990a928f4acc0d266e8b33233340332258db4cd240a8c1ae926580"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a68a558772d3c7dd928755640520eeaf67d3c08"
+git-tree-sha1 = "4f5e9771ba1ffbab6afc26bc9f23c68c4b543d03"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "588915e9de933d11e1513693152d0a7a56cda762e84a18fb9147442406265a7b"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.5.0+0/AMReX.v21.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "d542aa2a33786614a7f601b265cd13dc5bebd2d1d3a188a580d3d40104f99989"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v21.6.0+0/AMReX.v21.6.0.x86_64-w64-mingw32-cxx11.tar.gz"
