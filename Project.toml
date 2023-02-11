@@ -1,10 +1,9 @@
 name = "AMReX_jll"
 uuid = "9b6a1cb2-ee7e-5f22-a98b-ab382f85f133"
-version = "22.11.0+0"
+version = "23.2.0+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
