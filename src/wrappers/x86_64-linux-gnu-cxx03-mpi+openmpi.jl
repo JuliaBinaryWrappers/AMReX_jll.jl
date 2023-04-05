@@ -3,7 +3,6 @@ export libamrex
 
 using CompilerSupportLibraries_jll
 using OpenMPI_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("AMReX")
 JLLWrappers.@declare_library_product(libamrex, "libamrex.so")
 function __init__()

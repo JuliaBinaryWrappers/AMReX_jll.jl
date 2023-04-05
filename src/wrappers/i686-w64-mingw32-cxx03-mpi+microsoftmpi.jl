@@ -3,7 +3,6 @@ export libamrex
 
 using CompilerSupportLibraries_jll
 using MicrosoftMPI_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("AMReX")
 JLLWrappers.@declare_library_product(libamrex, "libamrex.dll")
 function __init__()
