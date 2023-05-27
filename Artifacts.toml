@@ -1,542 +1,542 @@
 [[AMReX]]
 arch = "aarch64"
-git-tree-sha1 = "5e1b9247d4c93f951397f0ef2f5977b727709101"
+git-tree-sha1 = "c9de2cac9ec3d6f29a2840a61baedb8345491b28"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "0205bcf2c92ea13f5baabbe65d5af17ea994334259656b25d4cbf1eae2f95bf9"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "7c65e3fa8d53d73cf0833cd2470c11489cc3f70db99f2ee57aeb46135aab19f7"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "aarch64"
-git-tree-sha1 = "6ad26b60f0205d291858075fe4a7f4a6e283a22c"
+git-tree-sha1 = "fce78848f50505f95ba8879c62f35cf06fd8cd7f"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "4e3f9090ceb709cbe2f3f1b34769a14061594f2bca148275313b1e9e26f9ca68"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "bf92170e8bc069c44bf55a567698ac71aa087122b637c6f83a2529945980f814"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "aarch64"
-git-tree-sha1 = "36790add344b71b3f4e22a6ebb596117644f3344"
+git-tree-sha1 = "10895e95a78e46ae238c97868192d3d68254d4cd"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "28190a0cc3054cb80ecf01f1cf17fd6142ae1fb8575e3d9c11a468c7e5d3c842"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "043477eb39b06021e0473c5e7a9f3e515ef4bcb3484cd64e87259f67140ca16e"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "763ede95df1452e6a95846b9de8a47178ac44164"
+git-tree-sha1 = "5f09be346a336fe6c1583cb049bd2a6eb95ea0e8"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "2c83f3f4d9727068f11117d56db2a038a18503bbaad14a65542c463e0a22a762"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "9bf7204c00ee860740a47ffa7a4a509de9e02863bf6daeb68c196c4a0658ab03"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "66ec302369d7d6bec6ebbbf21f1668d5bcd94699"
+git-tree-sha1 = "3b6c63ac2e6da49bb6d4ec3b51675151a8893117"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "f08363d5e98b2f69f4464b93904e683b1b786271db92c4736170d2700be64731"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "ac03a8a055318a79a13d0aa13d0c10754a91db98858ccdc802ac2ba7f3940210"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad7fe371673eb8d8968e853b8cbc56f86613ccfd"
+git-tree-sha1 = "2cc56e51236af1cd29c710e66d69e48cd2e1456f"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "9b7de07a18ee11670b49614f05c7c7c6ab4f9f09a2e0cf31155c83e71048e919"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "d674b052d645c0a14de8d98c20a6ae1d6a67998509c0d65eb613d6d647eb829c"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb8f22429552c28ce7517e26c300461176746534"
+git-tree-sha1 = "14b80eeda6c0335896a48af1359f4858d73f4355"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "a18ef833f87e63fb4025b7f5c81b51abcaae5f892174d9e56b6367c8de1f3020"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "c810c7bb9db8ac353dd7366693608251580897b58adaebf064df2ee0030241aa"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c53b38e817be8f580dee0993a7c1bbb64314dc6a"
+git-tree-sha1 = "fdd29a7efe463963ba83557eb2ddb4d8b126f31a"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "aa0066f751d3516aaaa361c6f9e0e981a517a51c893b304001004d66a6fe28a2"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "5b2cbdd8dfaa9c5d4b10fe5d363f3624822c92dfa6424d091bf3fb4f574d9f9d"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec5193321495d827c548fe5962c5e77a3ba7280d"
+git-tree-sha1 = "04305b3f65dea0cacb568a658e6d63cb8f462185"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "2fe8f0ba5b760ab1ebb2fe690a7279ec5ea6cc15ade236667b59e36f0e78096c"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "255777c8d1ad8a1765e51982d7a4f773bc4fb01ca3c117591e72e2429cdd14da"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3cab7fe327ad69cd79940905ca1d979b8e3281b0"
+git-tree-sha1 = "44fde5eae2287abd3b5cf30a2ca17e34583269b2"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "808656a41f031bb807d5876fd49fd672485154ee2a6aed676ae14c7d047d55cb"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "43f7bd5b89359343ddbda9a7e4a174e4ee2ddb7a1cfa6e44f4987a679ab6b851"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1b4c954a5ab3ead8b6681f950c83173773de19e"
+git-tree-sha1 = "1d3c77d0c64c23ff0ac131d6cdf682da10781486"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "d5787857857d96b69b18a1e7c9d485ef80d20d4e6927070bff3863e9bee46e65"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "68537a502bf5e3f5020a6b807279c941b26483b5bf65a132d1f4c1e3a0e279fe"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d500530d21ee63cd504bc69687e16e9a56e5dd1a"
+git-tree-sha1 = "f0c9f1b5608d1b461611b07cffa6327ec3daffca"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "3507cc51d4ea7f802621abdd8a23ea5ef25ba9ce05f85cc3e36a95307e5f0219"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "9223cbc4c89fb16fd19375d1bb8358d496fe7f8911b7cdb123093ff5416f2c1f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc94557f5927b70214bf231c872d96548a6bc60f"
+git-tree-sha1 = "2fb88869b8e213b10afaf202111ec351a045208d"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "6851058e312bc9ae72d534f18ff76e2f9524f769ad4de1e49d9f96e2aaa5c09b"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "4214064ad59ee224fd6dcf5877f4895606afc65ab5f37a56a6a487c961e92641"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b157e4c2bf17d80593f1a9eb6778e07fbbbb6dc8"
+git-tree-sha1 = "1f5cf1f0c422d7a6e4ae547d0ec40537d081f66d"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "2a7f2a76b52b50e5ba477ecd381ddbe03a18d5f8bf6ad7a9c8818c98b8cc4eeb"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "47ad412726219049c0cb025e4192007b3b70bfe75b2842b8fffa32f7585e0420"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "681506b8507fd10658ea2ea5edb6a715160897bc"
+git-tree-sha1 = "c42552f50065655acd1270816cdf2477703cfa4e"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "560c2b10fd020dc2c13202d1994df21e9d0f90848e86cab6b16eac7bcd28b0f4"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "8928978109ef19ff8fefae34d6027d38c437d30249efa25dd8bb293bec581854"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf6e1be325d2c3daf99fc7fc7a8ddd551cf29206"
+git-tree-sha1 = "4421f48000560b727c4568e6aa5be2c6e93979d0"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "3debbbc880a96028e55ce7d42474f0f0a1f054653ae7832766db216751c3a285"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "717d210c315fe29a82808d3c101c029e4f173388a766809cd2c52ae15542682d"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1312116025d4d28b0e2396d843e7a695f3c4910a"
+git-tree-sha1 = "60e33447a85361d7bcb7f59170dc7d0538cf6470"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "22eb91fea5648e7f3267c8efbeedb31e493eb8e879a3251f67ed0e73ebc946e6"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "5e9bcbb76c72943b6a3e58f76db9376e6e886dd023abce52b72bebc3e6fecc47"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "708968eee545caffd72d8023648264d8ca128fd9"
+git-tree-sha1 = "4a6786730118aac717dd2340bd2f4095f2e1fe65"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "0a0a09db79fb6c6c58258dbb50076c63a088712f9dece543b8101c36203f4e0e"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "5292c6f16a94ce52a5fc9a7c52d34e91e1d751ea3baf1e94a892e102e3c61f26"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8487951e88f92896299db9a0c3c8b06030fb22c8"
+git-tree-sha1 = "a816903f6debfc745a6b56d7dcb878dadb8be925"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "08e513a31e9395176c6ed560773b12079b6d721e3513b3f9f565632ae850825f"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "971fb328fce8112b15a18059558796f9708bc704e169e7b8baac859ac470c8ea"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fbd3d018b6458ceb46124436820b970bfbb910a0"
+git-tree-sha1 = "91eb71dc83eb4bdc0d72de8402ba6e95f924f5de"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "02f83443aaa44cbd6adfd5f199e4b88eb4b112940cfb87c8bba184e689f4fd60"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "0fa3fac3a8a147a2ee89811cf083c90ad3a67f7419c4f6dfa6f449f73c09d6e7"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2e44a7a196003216dfbdb4f71ac9135194f60b7c"
+git-tree-sha1 = "13fc438128a31c6098431e38e3ee738277cd8995"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "df0ff3028c9ebfd095840f77b85f8e6269aa23b17b434e2f60aea241c5d5ed09"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "c5ab38c986f79fa8cc517dd2d76e7d31ee6bb335bcfd5b765c17974bf4224fd5"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12e0d177892d5111830b3198c23fd4b201d737e6"
+git-tree-sha1 = "0122e7b68742a3f439b64ffaeea5af590d0f1d90"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "aa2e7b70f22bc41bc3db5282fa15f5ec1401678aafe6fecafe528f99ba81b5d3"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "cad801edd39e5e32ea88e11730ba0c50670d1205c021bc1d8686634e98d1bce7"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "75b5b0b2119c578035416fce7e7c50549d39c385"
+git-tree-sha1 = "b11a4eb4720ad158b2b27ebd9da9aaf77f3c7bca"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "c95f2aa241296d5a84baa4765b35070f764b00decf14906d1f4c04f76799a5fb"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "17fc4833efc27c22b6db61f3a32ade7fb6e6742c073ee47491832aa1adec9a96"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd851f50d1cee1545dc6fcbe4fd87dcbee66840b"
+git-tree-sha1 = "931689ac463ac1e379eb17821cdea3b0e8e6eef8"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "8df71cf4f81c6e88bc6519f24dbe090f0aa536c3bde5cd27b500350a74d54f3e"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "cfc4777136a1b9fed3a532e9b792ff7958ce6b0a31f92da6d1f25610f6a84cf3"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f90a80eee924c7ee9dc4326752b00f91e7c47cad"
+git-tree-sha1 = "6e59404f63f59dd2c2f52d8364ab451296a13dc7"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "92e72175e35b5c12f7cb5a1bfe593f3101c983db86b8c698b47108b223e29a2e"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "cbdb996bbf1b3d5adf1e4573223d95a75620f54e6549833f0d164b5dfd30fe61"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "176606b7923af452d0a29260b64ca19df68729b2"
+git-tree-sha1 = "d50819a5af8e3a2ffd856cb20d47ec60957b40b7"
 lazy = true
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "876ec234d5305a98664444d808287f203d21427c3b32e302f13fa8857421baa9"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
+    sha256 = "a0f585d0c745d540fab7591a0b56a6615a8b6e9c671163f17793d3e53d41444a"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c83d8e429a4cd6df4581a77cee6ce86f87e3bc2"
+git-tree-sha1 = "59b8cd8e588569848e3647cfe4885c3a26d51b2b"
 lazy = true
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "3b7ac369dd4274392becb99b5bb2206cc777bd320d947a51c7265c9a348e7bf0"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.i686-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
+    sha256 = "6f730de2faf0583afe4dbb9ae5be8ded634b6622633a47053ca25795036a346a"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.i686-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b3d90d6f4117854f2e9e32b804bb0ce44e8eb744"
+git-tree-sha1 = "1293c8b4bc6f52a67f0a9d20a1f3ec9a606b1f0d"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "b3b8f8087bce4263cc291d6ddbfb6b0f7a665b9b24fff59996d4abec40990bd7"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "6b05b4c797d41ce217bf7998f7dd2fd124698c20c2a554720eeff4bf1740d38d"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7816b7c5d3356b7f7a8f2981a5b196802b943cd5"
+git-tree-sha1 = "a2f4b5c04964e0605f6b65292c872378e9656fed"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "5f26b260a9c0db8609dd358c7212e5d30ab9cc8e51ca25a29885aefbb0742b81"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "a6efccba266468fa5d739fa06fd0362f98e75652a86568b91051b1ec00c5c407"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db81f9554f09575b070b638abb8970598f78170b"
+git-tree-sha1 = "75f1e4efb5ac923c7a6cca3b21957a5bf0cc729a"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "1532dc280a1e619505f2318a1f289c49ff4af10f061bc3aef8aa0b6521c4df8f"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "5b43aa7a3ab499211534f240806bec4f7de5ad8b6e1e5e4ff17803eeac8e28c4"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9b1180a8ec7619abf2908e78900d492e7ce9234d"
+git-tree-sha1 = "d335c8eeb3e9afcaa1bd80d13b20bdf4a113feeb"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "be921c74555d0ac4d31bc45150f910c5c7bcc175d43f2d7a964ddaf68aa182a3"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "9e0225f3c1de53a42592dfc31efdcb61a4938b2e6cf664baed37f9b62ca2baa4"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8347aea001e0f19d9f7f97984c702af4ac07eda4"
+git-tree-sha1 = "b1286c07af1543cf735a102d6196a6d99c9f42e7"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "ee92c5d318a11834310552387c63b8968f8c3b5bd79b3df8194a12b576c8fe01"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "5ea8a457f67f712def87751326a3913163d797a0f9f0d5bb2917f277f688e190"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4612562ef735a8ec072b0beea358fe3b10172ab3"
+git-tree-sha1 = "822555640816825cbdef4728a3ea1284dac11ebd"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "92a2a1d20295318043cf8b2ff34e3db5fd49e5cb7bf01a5224859e38d27a68f5"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "f17316a7923600273852fb722ac0052609db5fa975b5cc97f633858579783f8e"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "2891b895a41aed0554f5ac86fa0f67cfb09a0ac5"
+git-tree-sha1 = "7f9f4fc4c7e8105f638cd1bc8f9b12aa4fce4520"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "bddf3938520b00b3e9aac164217dfc4e5680f3414eeb4e6d5b1a4928a80b1642"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "b6df56e45c02fea55e3957b8dd615b23adee49848c232f0e740d35d11fb8da89"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "e5ec1330453e2baee755b7c71943c53b87a12f91"
+git-tree-sha1 = "dd5501e9b64236ee447c9d0e361c64dfe1402e45"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "9670333414f6fd04f80bcfd9215f975cf8649bae37ac600eceffd4ee116e96fe"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "31df9ad692cdfa5b04ec96a9484ccaec2ff331ae14dbacb1afe87912dbbc7be9"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "8512e00ec10912fdf0e69571cd471a2c0f947307"
+git-tree-sha1 = "eccb5acf92c703b9af1ac26c956ab0d142bfbe8d"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "04283c51f1f4b44d46801233820f3a6055f174cd92c19c9ff91b54ae069304f0"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "9038333328125b2dcfbe522a774cf67842713dcb9e387e767e751ff6546cc28c"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a2eb99858513275b4cc65e9bd611bb26d1cc977f"
+git-tree-sha1 = "fc26fbea5a1f239c0aa1c167c055127e12741c84"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "d4b6b0d08475bb444f44197e6021a67ba5f83d6a5380bee7e7eb49866f445ae2"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "b1f6dada1206bb7bb3f746dcb6c0daae963478bf9b779b8d049ca14c09645146"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21865e4641e2a9721bf2438e56c7ad1ec5b59820"
+git-tree-sha1 = "0ed63d27e79eecac363ae7a0aa001325893a38c9"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "69e3db845d5365ec8ee1443ede58534040a1db8b9a2a612126be3bd4731a4891"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "4697a5676161449da390f8576e3243669c9bc796800e90355a55604e53906526"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "62ce877ed3dd4bb6e2d8a66c939b0a0510e4eb88"
+git-tree-sha1 = "709cd37c37e249c3e524d8097a53e69df25ad43f"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "c33272e01ce44100944ce84f15da1fc267d75013c7c64b1a264ceb43956c1810"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "958a345bda05814c0f5a8815afac01d2fe7df615898ecc4ee9cf538c090500ce"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50c942416676ee63c947e91162c4f33db9a0b3f4"
+git-tree-sha1 = "b913f6100ca0c9d187e4d2e21a3fdc273ff1f5a4"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "9f50993f7a01b73ad27679c59b969fce4580f1be469ed5563d96b6b4c9b7f2c7"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "ae45ed1cd2578bf3fa0f5ac314d90b5d9466aa84adf846147da3d4f4a798c91f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c6cde93ef0c6ce3f7574d593992666d3ba385f9"
+git-tree-sha1 = "ebf7b64948b91c17bfbf545da7328f9031e607bc"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "80bb8a3b28e49b15b475f09ae8848ca9ee063233421ad54a38df181bc3f74fd6"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "c0d7bceda977b3aa3a7bcff1c811310579d8fb57ce55afbfbc252b4807f99ffc"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8e562b59acbbc646b4405de22954850577e85eb7"
+git-tree-sha1 = "f342c2b3f9336d34d8d627846b4f5fe00ee74d1f"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "dbb75cc550b4952c3e70774b04140e58c58f5bf66cea740c0bd5018bb78c64a9"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "a98b92d8c14a661ddd5af679f8732752236928961fe989acf9d8a502298bbb8f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "fc410b9f08e4da0fd75a7867ac8d3a2824f6812b"
+git-tree-sha1 = "ae2dfd22fef789d0888be1395fddcd2cef761ad5"
 lazy = true
 mpi = "mpich"
 os = "freebsd"
 
     [[AMReX.download]]
-    sha256 = "cc828d2d8ff35d78502db2ec7eb272fca37b9ae83b5ee49e651a6d2fdc69b7c7"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "35737bacef5a2f4a4aa1ceb293e33705352859555f001826a6ee99532221bbe2"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "436c69e6dfa04625ee493116d6c7e05d33a51f75"
+git-tree-sha1 = "bf9ad929eedc6cc8fa3829760068ae464098470e"
 lazy = true
 mpi = "openmpi"
 os = "freebsd"
 
     [[AMReX.download]]
-    sha256 = "9fa32d543688c25a369b02f9e4f3262e9317f22d7d88dd7d5a91e62a4ba7910f"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "120df79f370c3dfa4ea48f7db3595a3a252baa08fc01718bb381e10280397be5"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "31447ae9e607b032d565b84de288228e1ff9dfb5"
+git-tree-sha1 = "58a4d3cbbb095d18edd292165da732d4e4e175d4"
 lazy = true
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "e1996fb8968002e6ec369ac71d2867865c60fbf521307bc57ffd6a3717de5bc9"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
+    sha256 = "c6a2bddebc7c1a05f049739f02a082dea7ad9ab5d4fad979ccaee0404369f126"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "94002acd9b6092bd59b1d181ce88f6f02f9d3d6d"
+git-tree-sha1 = "16460cf0dcd368f9f88b9d7eac93e6b37b6ae0b8"
 lazy = true
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "9611ac608eb7880ddb4859dc61598a1f73b70d75aa94ed66e4d45db06856e3c1"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.4.0+0/AMReX.v23.4.0.x86_64-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
+    sha256 = "f709a86cdfd3307c686b20ea5efec5273cf710e5838a78d467fbf907b28e2725"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v23.5.0+0/AMReX.v23.5.0.x86_64-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
