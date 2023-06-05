@@ -5,12 +5,12 @@ using HDF5_jll
 using LLVMOpenMP_jll
 using MPICH_jll
 JLLWrappers.@generate_wrapper_header("AMReX")
-JLLWrappers.@declare_library_product(libamrex, "@rpath/libamrex.dylib")
+JLLWrappers.@declare_library_product(libamrex, "@rpath/libamrex_3d.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(HDF5_jll, LLVMOpenMP_jll, MPICH_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libamrex,
-        "lib/libamrex.dylib",
+        "lib/libamrex_3d.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
