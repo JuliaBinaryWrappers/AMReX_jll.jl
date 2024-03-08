@@ -1,6 +1,6 @@
 name = "AMReX_jll"
 uuid = "9b6a1cb2-ee7e-5f22-a98b-ab382f85f133"
-version = "24.2.0+0"
+version = "24.3.0+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
