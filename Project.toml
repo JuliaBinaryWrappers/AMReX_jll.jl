@@ -1,6 +1,6 @@
 name = "AMReX_jll"
 uuid = "9b6a1cb2-ee7e-5f22-a98b-ab382f85f133"
-version = "24.3.0+1"
+version = "24.4.0+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
@@ -23,7 +23,7 @@ julia = "1.6"
 MPIPreferences = "0.1"
 LazyArtifacts = "1"
 Libdl = "1"
-MPItrampoline_jll = "5.3.0"
+MPItrampoline_jll = "5.3.3"
 TOML = "1"
 Artifacts = "1"
 HDF5_jll = "~1.14"

@@ -1,40 +1,40 @@
 [[AMReX]]
 arch = "aarch64"
-git-tree-sha1 = "e3f1ad0bdf3eee8ad275b3dc3704d61eeed26681"
+git-tree-sha1 = "a0b0545fa0f88d72b32a63f30c6b18db8ccddc9c"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "d261ad483ba4a3e775616a99a863ea47a5d32ad43a7b5105a4239b5e7ebe5c45"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "8aec19a90b710ba457126b204dfb443d888f599d5d86deb3b971879669151f7a"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "aarch64"
-git-tree-sha1 = "03521491449a4dd7faf2fb0217e7e70782ec4f7c"
+git-tree-sha1 = "45c67ba861b3f1d0e514de61007b3ffc1457e1cd"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "40d3945e09fdc34f1634ba815f74b343461a4c7158600b471588b6174e7c385e"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "a21de56256a3b0b43a058635ceb93b599bd525e43deefaebc2084434f13a366d"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "aarch64"
-git-tree-sha1 = "94733c13652668848bef4015b5d55d14ed36b4a7"
+git-tree-sha1 = "bf240138ce9b0d3d0d09eca3fe125f8fbf6b622f"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "f0e2d86866ade56208cb5b75a2b0ac176e2609b7d6737e8f22ebdf813e7318a9"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "87cb290349f44eb6104cdfb306b0891f6991d245c9eb3750465c5d0b3f8651b8"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c7556cc350c63c3030cbaace955254f2371c57b9"
+git-tree-sha1 = "0045fbd70b37572cbb6c40c06c0b0bed2d31bae8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -42,12 +42,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "38d9b9b9f1aaee46c93100af933f6ba18a08706fe960f51500f12ba3aa321f51"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "270e49a51e74855f0ffd6e3e762fa172bc5f89f0559399c34d2c92f081e439c6"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "692d9aad2d990ab0d9f155c9fe97e6d20435231e"
+git-tree-sha1 = "1a7673582fff6e755a89bb5fd6d1cbd5fa3bfdf8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -55,12 +55,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "ce90a82fdc9913c89d1f3b1c5dd3e43eb94e78036fb0f4027f47135fb32c0aaa"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "583cd6ed4632db9eaa665fca6d0404899693df568fd0696bd9a16f5fd4852d6d"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "56acbb5a214185864542eb4d1e29b27dd2a0d0b4"
+git-tree-sha1 = "2bb8051b6fcda30e686fc76cede9455cb668080b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -68,12 +68,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "e3b204f67a7a09d2993a2c0ba07ae4a1f1c8610c40c3ec0b536ca8ed3fdcea4a"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "ea0c38bc40cd55ad247a2561044967497f91a7c11d6193e1b58bfdc9a00d9934"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d4a567a64b948b70431d49744e7abf7986b9dd45"
+git-tree-sha1 = "eaf4e9377a8832d993e378d2d8f621cf7c2a4df6"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -81,12 +81,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "dab407bfaceced282dfa45113cdb786238319eeee55119ff8157950768790b4c"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "f2f4fdf9402fc3fcee580ad4a6f3cb1334716c97d1cb1698f469391af1c31087"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "772469b3cacc55752e0549988e325b85c1b9f9aa"
+git-tree-sha1 = "ac6c9c662fb0dcabcf8e2801dad87fdc6837f26d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -94,12 +94,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "3a5f6658f69cff913d1202fb94890128b125d249fbd016249136b2f59ab5bebd"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "233811252c30153a71291f1a74362c80c6bc08ab725d6072df00488450c03e91"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "95a17ca2f3a4caa1cc6fba9b9a8d4dbd3c150985"
+git-tree-sha1 = "43175af899c21cd95b8efe84446832dcb4d498c4"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -107,13 +107,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "ef3cb419dcc94ef2813be169c3cd3e134c76cf1ae30fe06ff2aaa5c76d875cd9"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "d647a6e5e07c6e499948bfcb2f3b916cbf405eb89992d7f331e8f27b272c6c5f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ce6164d556eb120af05ed6fdec2c7a58fbdf167a"
+git-tree-sha1 = "22478537f19e1d5517365b8a96b5c7d2dea472f0"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -121,13 +121,13 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "e6598a88bf1c6d1d9ef7589b317f721bee625f1548bf666627d617476926063c"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "544f3dc61a78672cb08fddf2672729ea63bf6ed245051116dd0a92aabc7685e5"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "36799e20f0db1098070d98c514e6505105fa9de7"
+git-tree-sha1 = "7eea9012fd5734881bac2aa6ac17e1988706cb1a"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -135,13 +135,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "d022e9c619aa229f8796298ba7fbec4177e2e847260b2388494e61e8108fb334"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "e6c7ea4a41df53bd0f451904056edb6bbe8e8fc383a2031fa62fddd6adf0acfa"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c7fabdcde7d25412a3c96b893dcf013ed3b1a4bb"
+git-tree-sha1 = "f7da1df08afa94144a4a393a5e80dc79e6f7e7fe"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -149,13 +149,13 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "5e5fcff87f782e2de42e6e1f65d1ab3f6f4fcaa3446bd7997fd7e651a3b4a421"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "2dd380280068ead792fcc3c66eeab8b498a5780aa06ba7968dbfba3230374750"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f51260bf96e3b67090cccb3035ef1d5003eb0954"
+git-tree-sha1 = "d5ab7f44bb38a42587d47371be96af2302904692"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -163,13 +163,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "240f56e857bd32ec40300eba8bedd12ce2f61f2bfb08d54fc9b834a4c05dce85"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "4d71aa2d3d39d069f029e0008067427f54c7a9b78fa97460125736aa6524eea0"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "204d4a71f7d818565187fdf6b1e4c0f0f5408b70"
+git-tree-sha1 = "58d3804f63911cdf0f1b367554aedf5fcf034367"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -177,13 +177,13 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "fb0fd3fb725291b1eeb4c6349788b36ce4fd218ed4427af3e8d8f7d6d3b18910"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "89f817bd1cfb8f07b4d393cfe68d5199ee87ab586892cd3cc61dc7343345cb66"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "61d43f86ccc2ce28c59276d5799bf4d9aae29aa7"
+git-tree-sha1 = "f970c57293cac699ed48b8801ba252dd4761e331"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -191,13 +191,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "5684fce78b009f2edfc72d142e5f2d9b587ba53ff0ca232787ae74ff5ad37498"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "bccf5af413837d173a8d71aee4053bb65dc6acf9fe199d06fb13e515003b3781"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9d395bea00da0d465282f746a99b59cfd9a7aa9"
+git-tree-sha1 = "335f44494fb567ee1a7e4c8b6859746889301f92"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -205,13 +205,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "fe37137a7132a891449da415a662bfe2e32a8f0d4e8d5d3512088dd8202b8f1c"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "d11a10efcc9f5abc1888ba62ea0876636abdfd3c648e51912fe56aa7f840eda8"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a889e8f44223839530829b95b489a06f6609948a"
+git-tree-sha1 = "995b19cac9985a43091f1d952d7ff3d4956c752e"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -219,13 +219,13 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "4e99bb7587869ceff651399eda385eb9910869c8de5381dbcbb311538827c571"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "10226289e8df33ea936cc10f1b457f6889b9120822e303c424025fbf17e91690"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f44e050b84c61fb8c4262ad44e4092d70cade33"
+git-tree-sha1 = "fe65c6b58a26c2dc0dd38a75b241b0a21d693472"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -233,13 +233,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "6b300ce52176cb6e496d41429f223165c843063f0efc829c9ba63eea8af7b719"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "2ae1457ec19bb68a06e0be615d8745461156454eb13cf617888e8e9cc2f46900"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7eb0d01ad8c625d5072bc2e2263ecff6c60aff78"
+git-tree-sha1 = "bbae09ab4578c354e12a08099b2c76b8d043d9f8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -247,12 +247,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "628922863f24ced0b6d313eb2b5c8415c0c57a5a70ef5d5183a0ff14c62a993d"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "832d8ab0054bc0244d7792c43670fc55a0b7e87b76ae53fe406e37479945ea52"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0ddfb9ca7499ec432c0b0054a08338780375db9d"
+git-tree-sha1 = "4f6eff4324571f21971437005b400a863340dfb4"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -260,12 +260,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "1372ced4f514e6751f158594c2afb726442b81525b8060a819133310fec17423"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "f23ff98aa97aa5b2fd3232009747470d925bb99aff935ef015ae52f49a4b2f52"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cc9d0f270fac37a8bc75c49567a52ec8354f704c"
+git-tree-sha1 = "3d9f01ca0369effd9cdede83cc10149f5226ef29"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -273,12 +273,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "a74260cc3999b2d51d735fbb2cc846e955555b54dd1867a4369a9194c2afed60"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "9410ed264e7fc8f4bd00288b370052a53d0725c3936229e1efd7ad92e98625e8"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d69e3a64e2c1f8380b6ecc6308601b314e1d0bb4"
+git-tree-sha1 = "9b35e7fa1c2250253e14723319d92c2e1369f2b7"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -286,12 +286,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "c4490e55322e3b80ee041db9cc4b2f89b245e295490f2603365a0095319fd7ee"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "5c3c29f497065d5ce6f81fe17d49b95434ef0c8acc77bbe1b292aefb1b28d1ad"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f03abe9eca5145b5039b637bbe911f26f6f2ce84"
+git-tree-sha1 = "69ad9ca560f94693d2709d6d2e97204f0d445288"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -299,12 +299,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "99fe70b6d5cd62fa959388eb508a5e5c667260aee0ce5a137f836e3184ea38e5"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "5555d724963760fcd4ac52a4cf2c106c2019c21ad24d4ce85593f31daf0a7cba"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e0ffd9ac485ab63ad6b804d6040df1ee822e77d"
+git-tree-sha1 = "c899cd88b1d8bcc709ba347343da643224d0d869"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -312,12 +312,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "26a4173cf7552e0bd981632abf394184414043164788756040136fdfda3386e9"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "3656b2ab4d11310fcbe4dcc697a1344181382b582e9083efeffac9921ec62f00"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "73e052163a230c6d240d93952945deb488cd04ba"
+git-tree-sha1 = "f5b4ad131b8016b7163fcad0e2ab622f5a21edcd"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -325,36 +325,36 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "1c93b3166b01f5f4b0faa83f23c3974e912d0b498d8c623642ba5a1d68ef6a57"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "9df910aaa81b758f12338a013b6bd5d36a14e3d349d9230342f2abffc1b4eefb"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "342e4f021c1c54248b230f3dad2ead449016cf36"
+git-tree-sha1 = "70c646466d039e37bc9236c044a16a3211708966"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "9b24d7a58fe827b721e4faccaaeea4da2d81fc5bdba6e499212bd6799febfe1c"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-w64-mingw32-libgfortran5-cxx03-mpi+microsoftmpi.tar.gz"
+    sha256 = "ca880ba825fd7492a281f45b60f1cdb2862cbd2e8ff7af51e242dd68e474e34e"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-w64-mingw32-libgfortran5-cxx03-mpi+microsoftmpi.tar.gz"
 [[AMReX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d243494cf0617d0794627ceddf2808d98a078670"
+git-tree-sha1 = "f815c3802418aa03f5f1f6edb71fa9d25c2164cb"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "52314134cecf2f00532bbddd9090163638db85f2245d9e6068bfcd3d38689901"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.i686-w64-mingw32-libgfortran5-cxx11-mpi+microsoftmpi.tar.gz"
+    sha256 = "244c30ec74e5ae7aa39208dbea03b01f2c30a60dd920224a5584aa732a005304"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.i686-w64-mingw32-libgfortran5-cxx11-mpi+microsoftmpi.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "628d9f1eba3522c6b0b30161ea2b9ac62759318a"
+git-tree-sha1 = "f16fea13f71e17d48f6e391ba8b84ad438932c0d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -362,12 +362,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "569801a291ea2e860744b37145d9b1d72e2442fec28f09f5cbebd4684fc208eb"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "abb588244715b44b21f22a30d0f4d52f5601044a72f7feb3eefe99a4533d2f6c"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "67bf1ccc7cfc5ff0a8104c20378a5d85831904ca"
+git-tree-sha1 = "3fd077153f224b79e68c12b1be81371b6d8d78f9"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -375,12 +375,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "f55eb2f14b18f72d8d3475aea9b6ae407217b0ca53865c37b0dff6e3b87515f8"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "aa50f0f14ae115975d2d7b83b438347dd15fbc92a2768405d91eb9578b215ae1"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d8c29e5d6868e4ad0fa7ef2054133f9b1f12c0cf"
+git-tree-sha1 = "c007bee5654adb5e3ffeb0028801e148182c50dd"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -388,12 +388,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "76577e2fc7a6fd3af4fd3b2ced385d0eb1e9eb8191722792d2ad04f50c56b577"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "9776a4345c00b10df5582398baed235998ff804067772b9f817a309870b11ca1"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c10e04deb24f095fdd5c9b79af5ad93d3650786"
+git-tree-sha1 = "cecfe7aee00272f980e61a3630baa973b46fd1f1"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -401,12 +401,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "29679ee94256dedf7ae6b28b839be4c39e6239d2192fc6c87c8d2d58cc837d33"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "8512b2c4823e6eddd9ede22ea193f9369cd90b9d6507592190933dba14cb9efe"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d0c657a03a553f0b834fdb8fcbdb03e29a9f4c95"
+git-tree-sha1 = "2f5030934f84f0e97be5286db1776fe5e5407b59"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -414,12 +414,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "a11332564169c80f09a8409cb381c0375a9fe5ebe824a54470267b241bc00fc2"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "025374920cbf10904422650a1fd2d15600101974d64839d35afa2177489aaf2f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e0911b5257d1ae06472b6c23c9477bba989f43f9"
+git-tree-sha1 = "0693f578895e2e88d9e6d6eb22064e2ee3ea19f7"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -427,45 +427,45 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "16f4f6e8b0f6267ebd413f0ff928332dd1b2b6e31bacaefbaecfb35eab4169e1"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "8bc6cb86c02d3683a9c86174e4b2fce09f6740d0e5d11986b1092a7884c75a9f"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "829b4769089d72bb24ad1e4c074d3fc5cf5fed5f"
+git-tree-sha1 = "c7e2ed3ece5122cc26cdceaf010eefbd215b365a"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "a7b2e05b9010635eda2b54968e097c81729b5573200f1373e5e28e4b28c7b5b8"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "69c6ac04e0ebce3cdfecb0ab2fd74d80cea17453b54cf2ae726c24d7abd81383"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "ceee4a11423e52b2afb6ec4b5eea97283ccdcfae"
+git-tree-sha1 = "6a2fe45f196339abd6d28b96eed22e11b346d071"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "1ae64247ec5511034f0f2c00e14cdf252347d61ace1f164e6cee20ceedca4228"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "3200e21de8863e4e825eb5eec868dba76181ea9228d457f0fed89dfa24db3ad7"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "04903c50b411498f73526717814b76c97f16bc3c"
+git-tree-sha1 = "ae9d3ca9cf0a8b63374427bf5e642ec6f6b46737"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[AMReX.download]]
-    sha256 = "1a7b57a08fa4c7251bff7b37cc91af440db26f992f76c032f9926a79fc0db26a"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "49ca9f73dd043c335a1c40eb69feb3e29510a8fd9d8b716f3fffb28dfd267b52"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c15771b61ef1d4895dbdf7180eadf46683779a6"
+git-tree-sha1 = "1106cec62c5c3b38c2ee32806ba7d57860b21c3e"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -473,12 +473,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "916d01638abdcc376d6a4c35016431f88d5498985294978c6b8cda122842fbce"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "c3f4989e3059df15925cf7b3e0ba743d9b3f5a6e3a9e2540a1e025a7eeba68bb"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2df68079163d774e7a016ed816fd6729eadbe7d6"
+git-tree-sha1 = "b888f62ac99f9100ebad4cc9cf89e4f9bdd527a8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -486,12 +486,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "52b90d5006ff4b91ff91b0d466c3f2dc584d92e65e954155ed158150b1055afb"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "a20280975806fb7c2485b9995b309daad4534187a6214e3337c6ddfcdf30a320"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "127d505c6fc7539543123700d3449609e63a5326"
+git-tree-sha1 = "2592c52962dc16b0f024a9ac55703452b97babd2"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -499,12 +499,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "0f36181bf2704508b1b7f07a820641f6e9c1f2ad5d34e05840ea30f2543c5bcd"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "a4cf9f74d235f4399f5c04c4b07f6f5f527c5ac1f00d3de0c2a81d34c9b86431"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1cedbfa5a4e10d44e0a2d737fd23a82367374e7"
+git-tree-sha1 = "f077f0f656f0bab4b011304c06396a86d1d369cb"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -512,12 +512,12 @@ mpi = "mpich"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "ecb25f26cf422c28c626cd311117f81d62214f1810ea35717e49037a51f70c9f"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "43dc7411328507c8d60a0d8948082be4c624100eaaa7012d183b12bc8ef39bfa"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cdf671f2a6c95b8c992cc85b46ba78a6bb0a1701"
+git-tree-sha1 = "43734e33ebc209f83f845863887b62de3b5cb1ea"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -525,12 +525,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "c1907c9dea4dbe0a0ce4b9b7039d24095b8f55a3be016e014c483accd7a41f74"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "f2db5cdebdf171f7b84803937b89645658a997b9848412378ffbcc81f1d018b7"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfba7a48b69fe4ae1f4115064eb5591d50b97e2c"
+git-tree-sha1 = "d213a2e616cfc152f02deb4542067d09a416103b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -538,51 +538,51 @@ mpi = "openmpi"
 os = "linux"
 
     [[AMReX.download]]
-    sha256 = "e7692280dc3fd94ba475e121081f8abb3d1cf7c6288ef2890049fd2f2a85be52"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "ddcd41d913f571d8736d37bdc5745ac1e1eb80a4ed64b72473c733cae61f4d4d"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "6a27ab6a6e0e883667c8bca91ee6c4d461295753"
+git-tree-sha1 = "e2ab18cd4ef34f7ec77bd5350c17718819baad88"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[AMReX.download]]
-    sha256 = "c173fd3e6a845db8767a67ba53f65e54dccf6346535d17f930a2a292bddcafdb"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "f0959e2258e973f58d1d27eeaa350314b7ca20db4c7501a0e189d3baf69e7c20"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
 [[AMReX]]
 arch = "x86_64"
-git-tree-sha1 = "918b4bd470b591b20121e431e5b21eed9fc2a864"
+git-tree-sha1 = "d7bc115e5d2c01d09faddeb7db53783b1563b99a"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[AMReX.download]]
-    sha256 = "f923a91111d50999a6512504d1bb685eb2b6a6b0b7526dd1b703117dfef33513"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "75fa8f93e74ed0834ec9bcbe3330be6a8f87e80d0e314b7c496563b1775a513b"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "10a4c3fd11cc58de7f6e127c333894b9c0d58624"
+git-tree-sha1 = "438448e4354f23ea464898715f99a29e0ee2d823"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "5bae6da155eb0e145ab01305ccf674564664f948296f2a1a8e81752202e09494"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-w64-mingw32-libgfortran5-cxx03-mpi+microsoftmpi.tar.gz"
+    sha256 = "f6464394fc51a92cad2fadc2c597af98feddb38dea22c8b32cb718650b69b351"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-w64-mingw32-libgfortran5-cxx03-mpi+microsoftmpi.tar.gz"
 [[AMReX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cab39c33810188f7c45e08f74e6dca28126745f7"
+git-tree-sha1 = "c836ca66b2de49b4f1e6fa489c7334c7655a1849"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[AMReX.download]]
-    sha256 = "072af23b6227c14391804300e3df72c94af0d1496bc353051b42a64de05cdeb0"
-    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.3.0+1/AMReX.v24.3.0.x86_64-w64-mingw32-libgfortran5-cxx11-mpi+microsoftmpi.tar.gz"
+    sha256 = "5cfa5fd11538018aa967504d88abb706c0535569e36b426c50b1136f50330d74"
+    url = "https://github.com/JuliaBinaryWrappers/AMReX_jll.jl/releases/download/AMReX-v24.4.0+0/AMReX.v24.4.0.x86_64-w64-mingw32-libgfortran5-cxx11-mpi+microsoftmpi.tar.gz"
