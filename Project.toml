@@ -1,6 +1,6 @@
 name = "AMReX_jll"
 uuid = "9b6a1cb2-ee7e-5f22-a98b-ab382f85f133"
-version = "25.1.0+0"
+version = "25.2.0+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
@@ -26,6 +26,6 @@ JLLWrappers = "1.7.0"
 MPICH_jll = "4.2.3"
 Artifacts = "< 0.0.1, 1"
 julia = "1.6"
-MPItrampoline_jll = "5.5.0"
+MPItrampoline_jll = "5.5.1"
 TOML = "< 0.0.1, 1"
 OpenMPI_jll = "4.1.6, 5"
